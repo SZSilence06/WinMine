@@ -1,0 +1,50 @@
+# Microsoft Developer Studio Generated Dependency File, included by WinMine.mak
+
+.\MainFrm.cpp : \
+	".\define.h"\
+	".\MainFrm.h"\
+	".\WinMine.h"\
+	".\WinMineDoc.h"\
+	".\WinMineView.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\WinMine.cpp : \
+	".\define.h"\
+	".\MainFrm.h"\
+	".\WinMine.h"\
+	".\WinMineDoc.h"\
+	".\WinMineView.h"\
+	
+
+.\WinMine.rc : \
+	".\res\BITMAP10.BMP"\
+	".\res\BITMAP11.BMP"\
+	".\res\BITMAP20.BMP"\
+	".\res\BITMAP21.BMP"\
+	".\res\BITMAP30.BMP"\
+	".\res\BITMAP31.BMP"\
+	".\res\Toolbar.bmp"\
+	".\res\WinMine.ico"\
+	".\res\WinMine.rc2"\
+	".\res\WinMineDoc.ico"\
+	
+
+.\WinMineDoc.cpp : \
+	".\define.h"\
+	".\MainFrm.h"\
+	".\WinMine.h"\
+	".\WinMineDoc.h"\
+	".\WinMineView.h"\
+	
+
+.\WinMineView.cpp : \
+	".\define.h"\
+	".\WinMine.h"\
+	".\WinMineDoc.h"\
+	".\WinMineView.h"\
+	
